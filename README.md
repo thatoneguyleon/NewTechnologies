@@ -102,6 +102,6 @@ M: Het opzetten en calibreren van de VR installaties hadden we vaak moeite mee, 
 I: Het experimenteren met een 3rd person view voor een VR platform was tof om te doen. Uiteindelijk hebben we een leuke oplossing gevonden.<br><br>
 
 Jelle:<br>
-P - 
-M - 
-I -
+P - <br>
+M - <br>
+I - <br>
