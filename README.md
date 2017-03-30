@@ -102,6 +102,6 @@ M: Het opzetten en calibreren van de VR installaties hadden we vaak moeite mee, 
 I: Het experimenteren met een 3rd person view voor een VR platform was tof om te doen. Uiteindelijk hebben we een leuke oplossing gevonden.<br><br>
 
 Jelle:<br>
-P - <br>
-M - <br>
-I - <br>
+P - Het was heel fijn dat we heel vrij waren in het uitkiezen van de appratuur waar we mee wouden werken ook was het fijn dat we een vr room hadden om dingen mee te kunnen testen voor de vuze.<br>
+M - Het was jammer dat er maar een vr room was terwijl er 2 groepen waren die met de vuze wouden werken waardoor je soms niet veel kon doen voor het project omdat de andere groep erin zat.<br>
+I - Het was interessant om te zien hoe de vuze werkten en hoe goed hij werkten. Ik had zelf niet verwacht dat de vuze zo stabiel aanvoelden na een kleine tijd voelt het al alsof je in een andere ruimte zit.<br>
