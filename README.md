@@ -77,11 +77,12 @@ Jelle Bighelaar - 3D Artist
 Kevin Sonata - Developer
 Leon v.d. Berg - Designer
 
-Voor de sourcecode en build, download dit bestand:
+Voor de sourcecode en build, download dit bestand:<br>
 http://studenthome.hku.nl/~kevin.vanas/src/SuperDonkeyBall.rar
 
 <h>PMI</h>
-Tariq: 
-    P - We hadden een ruime keus aan technologiën
-    M - Het resultaat van de kinect was mager. Jammer dat we geen beschikking hadden over facetracking
+Tariq: <br>
+    P - We hadden een ruime keus aan technologiën<br>
+    M - Het resultaat van de kinect was mager. Jammer dat we geen beschikking hadden over facetracking<br>
     I - De oplossing voor een 3rd person vr game vond ik interessant. 
+    
