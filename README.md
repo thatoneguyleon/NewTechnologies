@@ -94,5 +94,14 @@ I - Volgens mij begin ik resistentie op te bouwen tegen VR-misselijkheid...<br><
 Leon:<br>
 P - Gewerkt met nieuwe technologie namelijk Virtual reality via de HTC Vive en gewerkt met mensen waar ik nog niet eerder mee heb samengewerkt.<br>
 M - We hadden niet echt een vaste planning. Hierdoor kon niet iedereen altijd iets doen. hiernast werd er geen voortgang bijgehouden hierdoor was niet iedereen altijd op de hoogte van hoe goed het ging en hoe ver we waren.<br>
-I - Doordat we geen theorie kregen, moesten we alles zelf uitzoeken en experimenteren. Doordat we de basis zelf moesten uitzoeken was het moeilijker om geavanceerdere projecten te doen. Maar leren we hierdoor wel alles zelfstandig en begrijpen we het door te doen.<br><br>
+I - Doordat we geen theorie kregen, moesten we alles zelf uitzoeken en experimenteren. Doordat we de basis zelf moesten uitzoeken was het moeilijker om geavanceerdere projecten te doen. Maar leren we hierdoor wel alles zelfstandig en begrijpen we het door te doen.<br><br><br>
 
+Erik:<br>
+P - Interessant om kennis te maken met een VR systeem met bijbehorende controls. Erg geslaagd!<br>
+M: Het opzetten en calibreren van de VR installaties hadden we vaak moeite mee, lag deels aan de ruimte, maar ergens knaagde het gevoel ook dat het aan de hardware lag.<br>
+I: Het experimenteren met een 3rd person view voor een VR platform was tof om te doen. Uiteindelijk hebben we een leuke oplossing gevonden.<br><br>
+
+Jelle:<br>
+P - 
+M - 
+I -
