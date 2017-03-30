@@ -61,21 +61,21 @@ controllers. Dit is geïmplementeerd door een stok met een wortel eraan voor de 
 die de ezel achtervolgd. De speler heeft de stok in zijn hand, dus als hij die beweegt, zal de
 ezel meebewegen.
 
-<h2>gebruikershandleiding</h2>
-Benodigdheden:
-• De Kinect for Windows
-• De SDK voor Unity: https://channel9.msdn.com/coding4fun/kinect/Kinect-for-Windows-v2-SDK-and-Unity-3D
-• Unity 3D
+<h2>gebruikershandleiding</h2><br>
+Benodigdheden:<br>
+• De Kinect for Windows<br>
+• De SDK voor Unity: https://channel9.msdn.com/coding4fun/kinect/Kinect-for-Windows-v2-SDK-and-Unity-3D<br>
+• Unity 3D<br><br>
 
-Setup:
-• Download deze repo en run het.
+Setup:<br>
+• Download deze repo en run het.<br><br>
 
-<h>Rolverdeling</h>
-Tariq Bakhtali - Developer
-Erik de Beurs - Designer, 3D Artist
-Jelle Bighelaar - 3D Artist
-Kevin van As - Developer
-Leon v.d. Berg - Designer
+<h>Rolverdeling</h><br>
+Tariq Bakhtali - Developer<br>
+Erik de Beurs - Designer, 3D Artist<br>
+Jelle Bighelaar - 3D Artist<br>
+Kevin van As - Developer<br>
+Leon v.d. Berg - Designer<br><br>
 
 Voor de sourcecode en build, download dit bestand:<br>
 http://studenthome.hku.nl/~kevin.vanas/src/SuperDonkeyBall.rar
