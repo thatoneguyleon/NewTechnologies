@@ -74,7 +74,7 @@ Setup:
 Tariq Bakhtali - Developer
 Erik de Beurs - Designer, 3D Artist
 Jelle Bighelaar - 3D Artist
-Kevin Sonata - Developer
+Kevin van As - Developer
 Leon v.d. Berg - Designer
 
 Voor de sourcecode en build, download dit bestand:<br>
@@ -84,5 +84,12 @@ http://studenthome.hku.nl/~kevin.vanas/src/SuperDonkeyBall.rar
 Tariq: <br>
     P - We hadden een ruime keus aan technologiën<br>
     M - Het resultaat van de kinect was mager. Jammer dat we geen beschikking hadden over facetracking<br>
-    I - De oplossing voor een 3rd person vr game vond ik interessant. 
+    I - De oplossing voor een 3rd person vr game vond ik interessant. <br><br>
     
+Kevin:<br>
+P - Deels leren omgaan met met de Vive, een waardevolle skill. Super Donkey Ball level is gaaf geworden. De vertaling van jouw beweging naar de paddle in Arkanoid voelt goed.<br>
+M - Inputs verwerken van Vive controllers is niet helemaal gelukt, zou eigenlijk nog net iets meer aandacht nodig hebben. <br>
+I - Volgens mij begin ik resistentie op te bouwen tegen VR-misselijkheid...<br><br>
+
+Leon:<br>
+P - 
