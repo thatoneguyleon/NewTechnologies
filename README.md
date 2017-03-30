@@ -77,6 +77,9 @@ Jelle Bighelaar - 3D Artist
 Kevin Sonata - Developer
 Leon v.d. Berg - Designer
 
+Voor de sourcecode en build, download dit bestand:
+http://studenthome.hku.nl/~kevin.vanas/src/SuperDonkeyBall.rar
+
 <h>PMI</h>
 Tariq: 
     P - We hadden een ruime keus aan technologiën
