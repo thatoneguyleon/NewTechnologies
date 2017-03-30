@@ -82,3 +82,23 @@ Tariq:
     P - We hadden een ruime keus aan technologiën
     M - Het resultaat van de kinect was mager. Jammer dat we geen beschikking hadden over facetracking
     I - De oplossing voor een 3rd person vr game vond ik interessant. 
+    
+Leon:
+    P: Gewerkt met nieuwe technologie namelijk Virtual reality via de HTC Vive en Gewerkt met mensen waar ik nog niet eerder mee heb samengewerkt.
+    M: We hadden niet echt een vaste planning. Hierdoor kon niet iedereen altijd iets doen. Er werd geen voortgang bijgehouden hierdoor was niet iedereen altijd op de hoogte van hoe goed het ging en hoe ver we waren.
+    I: Doordat we geen theorie kregen, moesten we alles zelf uitzoeken en experimenteren. Doordat we de basis zelf moesten uitzoeken was het moeilijker om geavanceerdere projecten te doen. Maar leren we hierdoor wel alles zelfstandig en begrijpen we het door te doen.
+    
+Erik:
+    P: Leuke nieuwe kennismaking met HTC Vive
+    M: Het opzetten van VR, ook al is de ruimte al vastgesteld zoals in de VR kamer, is nogal een gedoe, en werkte vaak niet lekker. Hierdoor was het wel duidelijk voor mij dat VR niet de toekomst is in deze staat
+    I:Het was interessant om te zien dat er eigenlijk tot nu toe alleen maar 1st person shooters in VR worden gemaakt. Hierdoor gingen we experimenteren met andere controls en kwamen erachter dat het lastig is om een 3rd person VR game te maken
+    
+Jelle:
+    P: Leuk om de vive te ontdekken en te zien wat het kan ook was het fijn dat we erg vrij waren in het exploren van technologien.
+    M: Het was fijn dat we een vr ruimte hadden alleen moesten wij deze delen met een andere groep waardoor je soms tijden had wanneer je niet goed kon testen omdat de vive alleen werkt als je alles aansluit.
+    I: Ik vond het intressant om te zien hoe goed de vive werkten ik had zelf niet verwacht dat deze zo soepel zou lopen en dat het echt aanvoelde alsof je in een andere ruimte zit.
+    
+Kevin:
+    P: via kinect eerste ervaring gehad met ARG. Dit is een positieve ervaring. Leren werken met Vive, vind ik erg waardevol. 
+    M: veel development gedaan. 
+    I:Zie Vive game.
