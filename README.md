@@ -31,14 +31,14 @@ Hiernaast kwamen we erachter dat de Kinect maximaal 6 mensen kan herkennen. Hela
 wisten we niet hoe we 6 mensen konden konden implementeren om er een multiplayer van
 te maken.
 
-<h2>gebruikershandleiding</h2>
-Benodigdheden:
-• De Kinect for Windows
-• De SDK voor Unity: https://channel9.msdn.com/coding4fun/kinect/Kinect-for-Windows-v2-SDK-and-Unity-3D
-• Unity 3D
+<h2>gebruikershandleiding</h2><br>
+Benodigdheden:<br>
+• De Kinect for Windows<br>
+• De SDK voor Unity: https://channel9.msdn.com/coding4fun/kinect/Kinect-for-Windows-v2-SDK-and-Unity-3D<br>
+• Unity 3D<br><br>
 
-Setup:
-• Download deze repo en run het.
+Setup:<br>
+• Download deze repo en run het.<br><br>
 
 <h1>Experiment 2</h1>
 <h2>Welke technologien heb je gebruikt</h2>
