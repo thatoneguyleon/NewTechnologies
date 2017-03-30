@@ -92,4 +92,7 @@ M - Inputs verwerken van Vive controllers is niet helemaal gelukt, zou eigenlijk
 I - Volgens mij begin ik resistentie op te bouwen tegen VR-misselijkheid...<br><br>
 
 Leon:<br>
-P - 
+P - Gewerkt met nieuwe technologie namelijk Virtual reality via de HTC Vive en gewerkt met mensen waar ik nog niet eerder mee heb samengewerkt.<br>
+M - We hadden niet echt een vaste planning. Hierdoor kon niet iedereen altijd iets doen. hiernast werd er geen voortgang bijgehouden hierdoor was niet iedereen altijd op de hoogte van hoe goed het ging en hoe ver we waren.<br>
+I - Doordat we geen theorie kregen, moesten we alles zelf uitzoeken en experimenteren. Doordat we de basis zelf moesten uitzoeken was het moeilijker om geavanceerdere projecten te doen. Maar leren we hierdoor wel alles zelfstandig en begrijpen we het door te doen.<br><br>
+
